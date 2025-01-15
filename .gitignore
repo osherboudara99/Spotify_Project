@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # Environment Variables
-variables.env
+.env
